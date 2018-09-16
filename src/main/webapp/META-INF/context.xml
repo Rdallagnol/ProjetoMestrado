@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ProjetoGstat">
+<Resource auth="Container" driverClassName="org.postgresql.Driver" maxActive="20" maxIdle="10" maxTotal="25" name="jdbc/sdumOnlinev3" password="1" type="javax.sql.DataSource" url="jdbc:postgresql://localhost:5433/sdumOnlinev3" username="postgres"/>
+</Context>
